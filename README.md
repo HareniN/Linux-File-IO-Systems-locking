@@ -74,7 +74,7 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
-![img](./img07/ex07-1.png)
+![img](./img07/Screenshot%20at%202025-05-12%2012-46-26.pngvi )
 
 
 ## 2.To Write a C program that illustrates files locking
@@ -150,7 +150,7 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
-
+![img](./img/Screenshot%20at%202025-05-12%2013-00-03.pngg)
 
 
 
