@@ -72,9 +72,9 @@ int main(int argc, char *argv[]) {
 }
 ```
 
+## OUTPUT
 
-
-
+![img](./img07/ex07-1.png)
 
 
 ## 2.To Write a C program that illustrates files locking
